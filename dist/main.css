@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+p {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: #bca5a5;
+    -webkit-transform: rotate(30deg);
+            transform: rotate(30deg);
+}
+p {
+  color: #000; }
+  p span {
+    background-color: red; }
+
